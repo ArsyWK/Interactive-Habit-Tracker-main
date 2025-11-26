@@ -9,7 +9,7 @@ const List<String> weekdays = ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'];
 
 class AddHabitScreen extends ConsumerStatefulWidget {
   const AddHabitScreen({super.key});
-
+//new shit
   @override
   ConsumerState<AddHabitScreen> createState() => _AddHabitScreenState();
 }
